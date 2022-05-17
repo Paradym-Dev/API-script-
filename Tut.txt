@@ -1,0 +1,9 @@
+please make sure u chnage all of the things before u run the script 
+
+also u will need python installed 
+
+and u will need to run this command after u have installed python 
+
+pip install requests
+
+then run the script
